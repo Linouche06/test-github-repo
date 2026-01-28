@@ -1,3 +1,4 @@
 # test-github-repo
 Some description
-blablabla other things 
+blablabla other things
+Editing in terminal 
